@@ -3,9 +3,9 @@
 ## Project Structure
 
 ```text
-.
-├── data/                         # not included in this repository
-│   ├── images/                   # SONAR PNG images
+
+├── data/                       
+│   ├── images/                   
 │   ├── gps/
 │   │   └── fix.csv
 │   ├── imu/
@@ -13,8 +13,8 @@
 │   └── sonar_transform/
 │       ├── range.json
 │       └── bearing.json
-├── src/                          # Python source code
-├── environment.yml               # Conda environment
+├── src/                         
+├── environment.yml               
 ├── README.md
 └── .gitignore
 ```
